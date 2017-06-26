@@ -1,7 +1,7 @@
 # identify hate
 
 <div style='align:center;'>
-  <img src='.github/screenshot.png' />
+  <img width=600 height=340 src='.github/screenshot.png' />
 </div>
 
 [GuideStar](http://guidestar.org/) added [SPLC information](https://www.splcenter.org/)
