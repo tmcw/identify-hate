@@ -1,5 +1,9 @@
 # identify hate
 
+<div style='align:center;'>
+  <img src='.github/screenshot.png' />
+</div>
+
 [GuideStar](http://guidestar.org/) added [SPLC information](https://www.splcenter.org/)
 identifying nonprofits run by [hate groups](https://www.splcenter.org/fighting-hate/extremist-files).
 They [were pressured to remove that information](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/26/after-conservative-backlash-charity-tracker-guidestar-removes-hate-group-labels/).
