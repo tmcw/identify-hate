@@ -99,6 +99,122 @@ chrome.extension.sendMessage({}, function(response) {
         {
           guideStarId: "91-1823641",
           splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "59-3663884",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2013/touring-third-reich"
+        },
+        {
+          guideStarId: "86-0932183",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2007/12-anti-semitic-radical-traditionalist-catholic-groups"
+        },
+        {
+          guideStarId: "47-0886878",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "68-0643445",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "54-1756470",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "37-1265883",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "37-1265883",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "75-1416858",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "48-1183942",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "68-0643445",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "27-2518993",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "45-2734488",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "52-1304849",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "31-1075684",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "36-3354510",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "47-0649778",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "94-2581509",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "94-2581509",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "52-1449368",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "36-3354510",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "26-0845411",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "26-0845411",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "94-2231771",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "81-1969574",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "52-1469956",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "30-0116360",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "30-0116360",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "52-1112449",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "47-2289987",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
         }
       ];
 
