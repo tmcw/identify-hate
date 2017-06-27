@@ -9,6 +9,10 @@ identifying nonprofits run by [hate groups](https://www.splcenter.org/fighting-h
 They [were pressured to remove that information](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/26/after-conservative-backlash-charity-tracker-guidestar-removes-hate-group-labels/).
 This extension adds that information back.
 
+<p align="center">
+  <img width=400 src='.github/charity-navigator.png' />
+</p>
+
 It also adds the same information to [CharityNavigator](https://www.charitynavigator.org/).
 
 ## Help out
