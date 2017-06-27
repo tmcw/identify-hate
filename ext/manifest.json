@@ -1,6 +1,6 @@
 {
-  "name": "Identify hate groups on GuideStar & CharityNavigator",
-  "version": "0.3.0",
+  "name": "Identify hate groups on GuideStar",
+  "version": "0.5.0",
   "manifest_version": 2,
   "description": "Shows SPLC-identified hate groups on GuideStar & CharityNavigator pages. Not affiliated with GuideStar, CharityNavigator, or SPLC.",
   "homepage_url": "https://www.washingtonpost.com/news/morning-mix/wp/2017/06/26/after-conservative-backlash-charity-tracker-guidestar-removes-hate-group-labels/",
