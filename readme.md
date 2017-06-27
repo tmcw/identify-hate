@@ -1,8 +1,8 @@
 # identify hate
 
-<div style='text-align:center;margin-bottom:20px;'>
-  <img width=600 height=340 src='.github/screenshot.png' style='border:1px solid #000' />
-</div>
+<p align="center">
+  <img width=400 height=226 src='.github/screenshot.png' />
+</p>
 
 [GuideStar](http://guidestar.org/) added [SPLC information](https://www.splcenter.org/)
 identifying nonprofits run by [hate groups](https://www.splcenter.org/fighting-hate/extremist-files).
