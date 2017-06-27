@@ -1,8 +1,8 @@
 {
-  "name": "Identify hate groups on GuideStar",
+  "name": "Identify hate groups on GuideStar & CharityNavigator",
   "version": "0.2.0",
   "manifest_version": 2,
-  "description": "Not affiliated with GuideStar or SPLC. Shows SPLC-identified hate groups on GuideStar pages.",
+  "description": "Shows SPLC-identified hate groups on GuideStar & CharityNavigator pages. Not affiliated with GuideStar, CharityNavigator, or SPLC.",
   "homepage_url": "https://www.washingtonpost.com/news/morning-mix/wp/2017/06/26/after-conservative-backlash-charity-tracker-guidestar-removes-hate-group-labels/",
   "icons": {
     "16": "icons/icon16.png",
@@ -16,15 +16,17 @@
   },
   "page_action": {
     "default_icon": "icons/icon19.png",
-    "default_title": "Identify hate groups on GuideStar"
+    "default_title": "Identify hate groups on GuideStar & CharityNavigator"
   },
   "permissions": [
-    "https://www.guidestar.org/*"
+    "https://www.guidestar.org/*",
+    "https://www.charitynavigator.org/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://www.guidestar.org/*"
+        "https://www.guidestar.org/*",
+        "https://www.charitynavigator.org/*"
       ],
       "js": [
         "src/inject/inject.js"
