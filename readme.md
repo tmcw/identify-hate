@@ -1,7 +1,7 @@
 # identify hate
 
-<div style='align:center;'>
-  <img width=600 height=340 src='.github/screenshot.png' />
+<div style='text-align:center;margin-bottom:20px;'>
+  <img width=600 height=340 src='.github/screenshot.png' style='border:1px solid #000' />
 </div>
 
 [GuideStar](http://guidestar.org/) added [SPLC information](https://www.splcenter.org/)
