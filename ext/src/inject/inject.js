@@ -63,6 +63,42 @@ chrome.extension.sendMessage({}, function(response) {
         {
           guideStarId: "22-3691487",
           splcUrl: "https://www.splcenter.org/fighting-hate/extremist-files/group/vdare"
+        },
+        {
+          guideStarId: "26-4268957",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "95-4194642",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "46-3647313",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "39-1785920",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2012/wisconsin%E2%80%99s-institute-science-and-technology-fears-vatican-conspiracy"
+        },
+        {
+          guideStarId: "95-6121940",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2010/18-anti-gay-groups-and-their-propaganda"
+        },
+        {
+          guideStarId: "87-0713874",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "26-2993939",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "20-2681812",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
+        },
+        {
+          guideStarId: "91-1823641",
+          splcUrl: "https://www.splcenter.org/fighting-hate/intelligence-report/2017/active-hate-groups-2016"
         }
       ];
 
